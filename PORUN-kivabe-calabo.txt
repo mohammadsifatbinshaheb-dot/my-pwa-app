@@ -1,0 +1,22 @@
+English Shikhi — কীভাবে চালাবেন (তৈরি: Sifat Uddin)
+
+পদ্ধতি ১: অনলাইন (সবচেয়ে সহজ)
+- অ্যাপের লিংক বন্ধুদের WhatsApp/Facebook-এ পাঠান। Chrome-এ খুললেই চলবে।
+
+পদ্ধতি ২: অফলাইন ফাইল (কোনো ইন্টারনেট লাগে না)
+- english-shikhi-offline.html ফাইলটা ফোনে সেভ করুন।
+- ফাইল ম্যানেজার থেকে Chrome দিয়ে খুলুন। এরপর ইন্টারনেট ছাড়াই চলবে।
+- বন্ধুকে এই ফাইলটা WhatsApp/Bluetooth-এ পাঠানো যায়।
+
+পদ্ধতি ৩: ফ্রি লিংক + অ্যাপ ইনস্টল (অনলাইন ও অফলাইন দুটোই)
+1. https://github.com/signup এ ফ্রি অ্যাকাউন্ট খুলুন।
+2. https://github.com/new এ গিয়ে নাম দিন english-shikhi, Public রাখুন, Create চাপুন।
+3. https://github.com/আপনার-নাম/english-shikhi/upload/main এ zip-এর ভেতরের 5টা ফাইল
+   (index.html, manifest.json, sw.js, icon-192.png, icon-512.png) আপলোড করে Commit দিন।
+4. https://github.com/আপনার-নাম/english-shikhi/settings/pages এ Branch = main বেছে Save করুন।
+5. ৩-৫ মিনিট পর https://আপনার-নাম.github.io/english-shikhi/ লিংকে অ্যাপ চালু হবে।
+6. Chrome-এ লিংক খুলে ৩-ডট মেনু > Add to Home screen / Install app।
+   একবার খুললে এরপর অফলাইনেও চলবে।
+
+নতুন ভার্সন এলে: GitHub-এ একই ৫টা ফাইল আবার আপলোড করে পুরোনোগুলো বদলে দিন।
+Play Store-এ দিতে চাইলে $25 লাগে (একবারের ফি); ফ্রিতে সেটা সম্ভব নয়।
